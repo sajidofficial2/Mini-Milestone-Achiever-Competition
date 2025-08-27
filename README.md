@@ -4,23 +4,8 @@ A friendly coding competition for our AI Engineering Course participants to show
 
 ---
 
-## How to Submit
-
-1. **Fork this repository**  
-   - Click the **Fork** button (top-right of this page).  
-   - This creates a copy of the repo under your own GitHub account.
-
-2. **Add your project/code**  
-   - Open your fork on GitHub.  
-   - Click **Add file → Upload files**.  
-   - Create a new folder named after your username (e.g., `submissions/user-name/`).  
-   - Upload your project files inside this folder.  
-   - Scroll down and click **Commit changes**.
-
-3. **Create a Pull Request (PR)**  
-   - After uploading, GitHub will show a yellow banner → click **Compare & Pull Request**.  
-   - Make sure the base repo is: **POX-org/Mini-Milestone-Achiever-Competition**  
-   - Add a title and short description (e.g., *“Added Milestone 1 Solution”*).  
-   - Click **Create Pull Request**.
-
----
+## 🏆 Competition Details
+- 📅 Date: 27th August 2025  
+- 🏆 Prize: Rs. 500  
+- 📝 Rules: Original work only, no plagiarism  
+- 🧑‍💻 Submissions: Must be inside a folder named after your username
