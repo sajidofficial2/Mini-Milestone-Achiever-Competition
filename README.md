@@ -4,8 +4,8 @@ A friendly coding competition for our AI Engineering Course participants to show
 
 ---
 
-## 🏆 Competition Details
-- 📅 Date: 27th August 2025  
-- 🏆 Prize: Rs. 500  
-- 📝 Rules: Original work only, no plagiarism  
-- 🧑‍💻 Submissions: Must be inside a folder named after your username
+## Competition Details
+- Date: 27th August 2025  
+- Prize: Rs. 500  
+- Rules: Original work only, no plagiarism  
+- Submissions: Must be inside a folder named after your username
