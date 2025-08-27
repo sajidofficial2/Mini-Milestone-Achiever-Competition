@@ -19,7 +19,7 @@ Welcome! Please follow these steps to submit your entry.
 3. **Create a Pull Request (PR)**  
    - After uploading, GitHub will show a yellow banner → click **Compare & Pull Request**.  
    - Make sure the base repo is: **POX-org/Mini-Milestone-Achiever-Competition**  
-   - Add a title and short description (e.g., *“Added Milestone 1 Solution”*).  
+   - Add a title and short description (e.g., *“Added `/user-name/`'s Solution”*).  
    - Click **Create Pull Request**.
 
 ---
