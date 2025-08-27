@@ -4,7 +4,7 @@ Welcome! Please follow these steps to submit your entry.
 
 ---
 
-## 🚀 Steps to Submit
+## Steps to Submit
 
 1. **Fork this repository**
    - Click the **Fork** button (top-right of this page).
